@@ -29,13 +29,6 @@
 
 ---
 
-### 💬 Join my Dev Community  
-
-<a href="https://discord.gg/">
-  <img src="https://discordapp.com/api/guilds/123456789012345678/widget.png?style=banner2" alt="Join Server"/>
-</a>
-
----
 
 ⭐️ *“Coding is not just about syntax — it’s about solving problems creatively.”*
 
